@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pc29564530)](https://git.io/streak-stats)
 
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pc29564530&show_icons=true&theme=transparent)
 ![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pc29564530&count_private=true)
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pc29564530&show_icons=true&theme=tokyonight) -->
 
