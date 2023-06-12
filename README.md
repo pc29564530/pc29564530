@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pc29564530&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pc29564530&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pc29564530&exclude_repo=github-readme-stats,anuraghazra.github.io)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pc29564530&theme=tokyonight) -->
 
 [![Github](https://img.shields.io/github/followers/pc29564530?label=Follow&style=social)](https://github.com/pc29564530)
 ![](https://visitor-badge.laobi.icu/badge?page_id=pc29564530.pc29564530)
