@@ -49,3 +49,22 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/pc29564530?label=Follow&style=social)](https://github.com/pc29564530)
 ![](https://visitor-badge.laobi.icu/badge?page_id=pc29564530.pc29564530)
 
+
+# PAWAN KUMAR
+[![Linkedin Badge](https://img.shields.io/badge/-Pawan Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pawan-chaudhary12/)](https://www.linkedin.com/in/pawan-chaudhary12/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pawankc482@gmail.com)](mailto:pawankc482@gmail.com)
+![](https://komarev.com/ghpvc/?username=pranjal1127&color=dc143c)
+<img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+
+
+
+### 😉 About
+
+- 🔭 I’m currently working with Golang.
+- 🌱 I’m currently learning React Native. 
+- 🏄‍ Actively contributing to various organisations and Open-Source Projects.
+- 🔑 Love with Data Structures and Algorithm.
+- 💬 Ask me about anything related to Web Development and Golang.
+
+![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=pc29564530&show_icons=true&hide_border=true)
+
