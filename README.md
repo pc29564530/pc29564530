@@ -4,54 +4,8 @@ My Favourite Golang Javascript Node
 Currently working on Golang based application
 Ask me about Golang, Javascript
 
-<!--
-**pc29564530/pc29564530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## ✉️ Find me on:
-
-
-<p align="center">
- <a href="https://pc29564530.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/pawan-chaudhary12/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:pawankc482@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
-
-## 🧰 Languages and Tools:
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/golang/golang.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-</p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pc29564530)](https://git.io/streak-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pc29564530&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&show_icons=true" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pc29564530&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pc29564530&theme=tokyonight) -->
-
-[![Github](https://img.shields.io/github/followers/pc29564530?label=Follow&style=social)](https://github.com/pc29564530)
-![](https://visitor-badge.laobi.icu/badge?page_id=pc29564530.pc29564530)
-
 
 # PAWAN KUMAR
-[![Linkedin Badge](https://img.shields.io/badge/-Pawan Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/pawan-chaudhary12/)](https://www.linkedin.com/in/pawan-chaudhary12/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pawankc482@gmail.com)](mailto:pawankc482@gmail.com)
 ![](https://komarev.com/ghpvc/?username=pranjal1127&color=dc143c)
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
@@ -66,5 +20,17 @@ Here are some ideas to get you started:
 - 🔑 Love with Data Structures and Algorithm.
 - 💬 Ask me about anything related to Web Development and Golang.
 
-![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=pc29564530&show_icons=true&hide_border=true)
 
+#### **Frameworks, Platforms and Libraries**
+<img height=25 src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/bootstrap-%23404d59.svg?style=for-the-badge&logo=bootstrap&logoColor=%2361DAFB">&nbsp;&nbsp;
+
+## 📈Github Stats
+<p align="center">
+<a href="https://github.com/pc29564530">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pc29564530&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pc29564530&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
